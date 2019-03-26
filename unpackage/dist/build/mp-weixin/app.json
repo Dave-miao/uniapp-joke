@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/joke/joke",
+    "pages/user/user"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {},
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#FE585A",
+    "borderStyle": "black",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "乐乐图",
+        "iconPath": "static/picture.png",
+        "selectedIconPath": "static/picture1.png"
+      },
+      {
+        "pagePath": "pages/joke/joke",
+        "text": "笑笑文",
+        "iconPath": "static/joke.png",
+        "selectedIconPath": "static/joke1.png"
+      }
+    ]
+  },
+  "permission": {}
+}

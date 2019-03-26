@@ -1,0 +1,2 @@
+<import src="./joke.vue.wxml" />
+    <template is="fab93056" data="{{ ...$root['0'], $root }}"/>
